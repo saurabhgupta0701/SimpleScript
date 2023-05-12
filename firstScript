@@ -1,0 +1,6 @@
+echo "*********Starting the script***********"
+mkdir saurabh
+touch file1 > this is first file
+touch file2 > this is second file
+ls
+echo "*******End of the file *************"
